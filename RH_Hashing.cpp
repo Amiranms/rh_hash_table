@@ -360,7 +360,6 @@ int main(void) {
     std::cout.precision(6);
     std::cout << std::fixed;
     std::cout << "SYSTEM: HASH TABLE WITH ROBIN HOOD HASHING" << std::endl;
-    std::cout << "AUTHOR: STUDENT KMBO-01-18 IBRAGIM IDRISOV" << std::endl;
     std::cout << " ABOUT: - three hash maps for strings, integers and real numbers prepared" << std::endl;
     std::cout << "        - at each branching, enter the character indicated in parentheses (...)" << std::endl;
     std::cout << "        - for more variety, you will have to modify the 'main.cpp' file" << std::endl;
